@@ -7,7 +7,8 @@ Curso: Herramientas básicas para Análisis de Datos - Centro UTN E-Learning
 # **Evolución del mercado argentino de peróxido de hidrógeno (2021-2026)**                                        
  Descripción general: El consumo de agua oxigenada está directamente ligado al crecimiento de diversas industrias, especialmente la del papel, textil, minería y envasado de alimentos.
 
-Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nuestra posición en el mercado analizando periódicamente las importaciones de la posición arancelaria correspondiente, así como incluir con la mayor precisión posible las cantidades fabricadas en el país.                                                                  
+Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nuestra posición en el mercado analizando periódicamente las importaciones de la posición arancelaria correspondiente, así como incluir con la mayor precisión posible las cantidades fabricadas en el país.   
+
 🎯Objetivos principales: Hacer el seguimiento a lo largo de los últimos 5 años de los siguientes indicadores
 #1) Evolución del tamaño del mercado en toneladas y participación de cada empresa
 #2) Evolución de los precios y comparación frente a la competencia
