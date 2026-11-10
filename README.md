@@ -1,3 +1,15 @@
+Educación: Ingeniero Químico (UBA) 2002
+
+                     Especialización en materiales plásticos (INTI)
+
+Experiencia laboral: Gerente Comercial - Solvay Peróxidos (2025- Presente)
+
+                     Gestión de cuentas en Argentina y Uruguay
+                     Seguimiento comercial de clientes activos y desarrollos en sistema CRM Nexus
+                     
+           
+
+
 # TP-final-analisis-de-datos 📊
 
 Autor: Pablo Delucchi
