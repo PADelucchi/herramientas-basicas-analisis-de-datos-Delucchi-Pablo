@@ -1,14 +1,10 @@
 # TP-final-analisis-de-datos
-Trabajo Práctico Final
 
 Autor: Pablo Delucchi
 
-Curso: Herramientas básicas para Análisis de Datos
+Curso: Herramientas básicas para Análisis de Datos - Centro UTN E-Learning
 
-Fecha de entrega: 10-11-2026
-
-# **Análisis del mercado argentino de peróxido de hidrógeno (2021-2026)**  Centro UTN E- Learning                                         
-
+# **Evolución del mercado argentino de peróxido de hidrógeno (2021-2026)**                                        
  Descripción general: El consumo de agua oxigenada está directamente ligado al crecimiento de diversas industrias, especialmente la del papel, textil, minería y envasado de alimentos.
 
 Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nuestra posición en el mercado analizando periódicamente las importaciones de la posición arancelaria correspondiente, así como incluir con la mayor precisión posible las cantidades fabricadas en el país.                                                                  
@@ -17,6 +13,7 @@ Objetivos principales: Hacer el seguimiento a lo largo de los últimos 5 años d
 #2) Evolución de los precios y comparación frente a la competencia
 #3) Incidencia del costo logístico en el precio del producto y su comparación frente a competidores directos.
 
+DATASET: (https://app.penta-transaction.com/login) 
 
 Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI, GitHub
 
