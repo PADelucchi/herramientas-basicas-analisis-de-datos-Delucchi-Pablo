@@ -24,7 +24,7 @@ Para ver criterios de clasificación y limpieza del dataset, junto con gráficas
 
 Para ver KPIs
 
-* [PowerBI]()
+* [PowerBI](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/6aaad62a2bb79ab55836e713b345836de14fb96d/TP%20Final%20Dashboard.pbix)
 
 ![Posición frente a competidores](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/cf6c041adb86c56119e6ca7ce2a586aa0c9e4df5/images/Mkt%20share%20vs%20competencia%20directa.png)
 
