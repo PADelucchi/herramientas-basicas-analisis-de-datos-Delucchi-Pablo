@@ -24,9 +24,8 @@ Para ver criterios de clasificación y limpieza del dataset, junto con gráficas
 
 Para ver KPIs
 
-* [PowerBI](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/6aaad62a2bb79ab55836e713b345836de14fb96d/TP%20Final%20Dashboard.pbix)
+* [PowerBI]()
 
-![Posición frente a competidores](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/cf6c041adb86c56119e6ca7ce2a586aa0c9e4df5/images/Mkt%20share%20vs%20competencia%20directa.png)
 
 📂DATASET: (https://app.penta-transaction.com/login) se requiere contraseña pero ya se descargaron los datos en el archivo H2O2... xlsx presente en este repositorio.
 
