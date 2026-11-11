@@ -23,24 +23,22 @@ Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nu
 
 ## Estructura de datos
 
-├── Images/                             : contains images
-├── static/                             : plots to show gauge chart, hazard and survival curve, shap values in Flask App  
-├── templates/                          : contains html template for flask app
-│   └── index.html
-├── Customer Survival Analysis.ipynb    : Survival Analysis kaplan-Meier curve, log-rank test and Cox-proportional Hazard model
-├── Exploratory Data Analysis.ipynb     : Data Analysis to understand customer data
-├── Churn Prediction Model.ipynb        : Random Forest model to predict customer churn
-├── app.py                              : Flask App
-├── app-pic.png                         : Final App image  
-├── explainer.bz2                       : Shap Explainer
-├── model.pkl                           : Random Forest model
-├── survivemodel.pkl                    : Cox-proportional Hazard model
-├── requirements.txt                    : requirements to run this model
-├── Procfile                            : procfile for app deployment
-├── LICENSE.md                          : MIT License
-└── README.md                           : Report
-```
+├── H2O2 2021-Sep 2026_sucio(1).xlsx          : dataset estructurado obtenido de servicios aduaneros
 
+├── MercadoPeroxlimpio(5).xlsx                : dataset limpio de filas nulas y anómalas luego de tratamiento en Colab con Python
+
+├── Mkt perox Ene-Sep comparación.png         : Gráfica con cantidades del mercado con detalle de cada proveedor, para ver evolución y tendencia del mercado
+
+├── Mkt share vs competencia directa.png      : Gráfica para ver nuestra posición frente a competidores
+
+├── README.md                                 : Resumen de los puntos más importantes y acciones para mejorar
+
+├── TP Final Dashboard.pbix                   : Principales KPIs respondiendo a los objetivos 
+
+├── TP final.ipynb                            : Notebook en plataforma Colab utilizando Python para clasificar y extraer datos útiles para analizar las estadísticas de mercado
+
+├── requirements.txt                          : Tecnologías para correr este modelado de datos
+```
 
 🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI
 
