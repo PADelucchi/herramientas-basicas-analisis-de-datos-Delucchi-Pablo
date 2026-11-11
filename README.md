@@ -1,5 +1,5 @@
                      
-## Proyectos
+## Proyecto
 
 ### TP-final-analisis-de-datos 📊
 
@@ -41,6 +41,8 @@ Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nu
 ├── TP final.ipynb                            : Notebook en plataforma Colab utilizando Python para clasificar y extraer datos útiles para analizar las estadísticas de mercado
 
 ├── requirements.txt                          : Tecnologías para correr este modelado de datos
+
+pip install-r requirements.txt                : instalación de librerias
 ```
 
 🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI
