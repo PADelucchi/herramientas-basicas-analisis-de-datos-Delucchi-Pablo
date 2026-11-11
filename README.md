@@ -24,7 +24,7 @@ Para ver criterios de clasificación y limpieza del dataset, junto con gráficas
 
 Para ver KPIs
 
-* [PowerBI]()
+* [PowerBI](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/TP%20Final%20Dashboard.pbix)
 
 
 📂DATASET: (https://app.penta-transaction.com/login) se requiere contraseña pero ya se descargaron los datos en el archivo H2O2... xlsx presente en este repositorio.
