@@ -20,7 +20,7 @@ Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nu
 ### Instrucciones de uso
 
 Para ver criterios de clasificación y limpieza del dataset, junto con gráficas correr el siguiente enlace
-* [Mkt Peróxido Argentino] (https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/d7296c638032d338f7c725b1b4cad25596433ac9/TP%20final.ipynb)
+* [Analisis Python via Colab](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/d7296c638032d338f7c725b1b4cad25596433ac9/TP%20final.ipynb)
 
 Para ver KPIs
 
