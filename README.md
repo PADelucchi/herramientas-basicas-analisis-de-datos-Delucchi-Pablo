@@ -1,15 +1,3 @@
-# Hola!🖐️Soy Pablo,
-
-Educación: Ingeniero Químico (UBA) 2002
-
-                    - Especialización en materiales plásticos (INTI)
-                    - Diseño y síntesis de polímeros para revestimientos arquitectónicos e industriales
-
-Experiencia laboral: Gerente Comercial - Solvay Peróxidos (2025- Presente)
-
-                     - Gestión de cuentas en Argentina y Uruguay
-                     - Comercialización de agua oxigenada para industria y alimentos
-                     - Seguimiento comercial de clientes activos y desarrollos en sistema CRM Nexus
                      
 ## Proyectos
 
@@ -32,6 +20,27 @@ Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nu
 📂DATASET: (https://app.penta-transaction.com/login) se requiere contraseña pero ya se descargaron los datos en el archivo H2O2... xlsx presente en este repositorio.
 
 🔍Resultados:  Es prioritario renegociar nuestros servicios logísticos, logrando una reducción mínima del 10%, así como también nuestros costos de producción, para ser más competitivos y adaptarnos a la realidad del mercado actual. Con estas medidas, volveremos al nivel mínimo de un Mkt Share del 15%
+
+## Estructura de datos
+
+├── Images/                             : contains images
+├── static/                             : plots to show gauge chart, hazard and survival curve, shap values in Flask App  
+├── templates/                          : contains html template for flask app
+│   └── index.html
+├── Customer Survival Analysis.ipynb    : Survival Analysis kaplan-Meier curve, log-rank test and Cox-proportional Hazard model
+├── Exploratory Data Analysis.ipynb     : Data Analysis to understand customer data
+├── Churn Prediction Model.ipynb        : Random Forest model to predict customer churn
+├── app.py                              : Flask App
+├── app-pic.png                         : Final App image  
+├── explainer.bz2                       : Shap Explainer
+├── model.pkl                           : Random Forest model
+├── survivemodel.pkl                    : Cox-proportional Hazard model
+├── requirements.txt                    : requirements to run this model
+├── Procfile                            : procfile for app deployment
+├── LICENSE.md                          : MIT License
+└── README.md                           : Report
+```
+
 
 🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI
 
