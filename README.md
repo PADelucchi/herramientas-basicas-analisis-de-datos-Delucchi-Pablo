@@ -41,7 +41,7 @@ Para ver criterios de clasificación y limpieza del dataset, junto con gráficas
 
 Para ver KPIs
 
- *[*PowerBI Dashboard*]([https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/TP%20Final%20Dashboard.pbix](https://app.powerbi.com/reportEmbed?reportId=98037350-6f8a-49dd-a79e-037e0111255c&autoAuth=true&ctid=86b1ce69-0346-4d4d-bc51-10d84f3dd40f))
+ * [PowerBI Dashboard]([https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/TP%20Final%20Dashboard.pbix](https://app.powerbi.com/reportEmbed?reportId=98037350-6f8a-49dd-a79e-037e0111255c&autoAuth=true&ctid=86b1ce69-0346-4d4d-bc51-10d84f3dd40f))
 
 
 📂DATASET: (https://app.penta-transaction.com/login) se requiere contraseña pero ya se descargaron los datos en el archivo H2O2... xlsx presente en este repositorio.
