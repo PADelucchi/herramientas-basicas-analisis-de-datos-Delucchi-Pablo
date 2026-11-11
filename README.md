@@ -17,11 +17,13 @@ Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nu
 
 ### 3) Incidencia del costo logístico en el precio del producto y su comparación frente a competidores directos.
 
+![Posición frente a competidores]()
+
 📂DATASET: (https://app.penta-transaction.com/login) se requiere contraseña pero ya se descargaron los datos en el archivo H2O2... xlsx presente en este repositorio.
 
 🔍Resultados:  Es prioritario renegociar nuestros servicios logísticos, logrando una reducción mínima del 10%, así como también nuestros costos de producción, para ser más competitivos y adaptarnos a la realidad del mercado actual. Con estas medidas, volveremos al nivel mínimo de un Mkt Share del 15%
 
-![Posición frente a competidores]()
+
 ## Estructura de datos
 
 ├── H2O2 2021-Sep 2026_sucio(1).xlsx          : dataset estructurado obtenido de servicios aduaneros
