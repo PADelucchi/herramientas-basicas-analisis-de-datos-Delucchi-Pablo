@@ -17,6 +17,11 @@ Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nu
 
 ### 3) Incidencia del costo logístico en el precio del producto y su comparación frente a competidores directos.
 
+### Instrucciones de uso
+
+Para ver criterios de clasificación y limpieza del dataset, junto con gráficas correr el siguiente enlace
+*[Mkt Peróxido Argentino] ()
+
 ![Posición frente a competidores](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/cf6c041adb86c56119e6ca7ce2a586aa0c9e4df5/images/Mkt%20share%20vs%20competencia%20directa.png)
 
 📂DATASET: (https://app.penta-transaction.com/login) se requiere contraseña pero ya se descargaron los datos en el archivo H2O2... xlsx presente en este repositorio.
