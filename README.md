@@ -21,7 +21,7 @@ Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nu
 
 🔍Resultados:  Es prioritario renegociar nuestros servicios logísticos, logrando una reducción mínima del 10%, así como también nuestros costos de producción, para ser más competitivos y adaptarnos a la realidad del mercado actual. Con estas medidas, volveremos al nivel mínimo de un Mkt Share del 15%
 
-![Posición frente a competencia](images/Mkt share vs competencia directa.png)
+!Posición frente a competidores](images/Mkt share vs competencia directa.png)
 ## Estructura de datos
 
 ├── H2O2 2021-Sep 2026_sucio(1).xlsx          : dataset estructurado obtenido de servicios aduaneros
