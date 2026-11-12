@@ -28,11 +28,11 @@ Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nu
 
 🎯Objetivos principales: Hacer el seguimiento a lo largo de los últimos 5 años de los siguientes indicadores
 
-#### 1) Evolución del tamaño del mercado en toneladas y participación de cada empresa
+#### 1) Monitorear la evolución del tamaño del mercado en toneladas y participación de cada empresa y conocer en cualquier año si cumplimos con la meta del 15%
 
-#### 2) Evolución de los precios y comparación frente a la competencia
+#### 2) Seguir la evolución de los precios y comparación frente a la competencia
 
-#### 3) Incidencia del costo logístico en el precio del producto y su comparación frente a competidores directos.
+#### 3) Medir la incidencia del costo logístico en el precio del producto, que no sea mayor a 150 usd/tn y su comparación frente a competidores directos.
 
 ### Instrucciones de uso
 
@@ -46,7 +46,7 @@ Para ver KPIs
 
 📂DATASET: (https://app.penta-transaction.com/login) se requiere contraseña pero ya se descargaron los datos en el archivo H2O2... xlsx presente en este repositorio.
 
-🔍Resultados:  Es prioritario renegociar nuestros servicios logísticos, logrando una reducción mínima del 10%, así como también nuestros costos de producción, para ser más competitivos y adaptarnos a la realidad del mercado actual. Con estas medidas, volveremos al nivel mínimo de un Mkt Share del 15%
+### 🔍Resultados:  Es prioritario renegociar nuestros servicios logísticos, logrando una reducción mínima del 10%, así como también nuestros costos de producción, para ser más competitivos y adaptarnos a la realidad del mercado actual. Con estas medidas, volveremos al nivel mínimo de un Mkt Share del 15%
 
 
 🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI
