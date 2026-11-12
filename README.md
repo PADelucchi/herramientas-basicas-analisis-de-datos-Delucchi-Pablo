@@ -25,7 +25,7 @@ Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nu
 
 ├── TP final.ipynb                            : Notebook en plataforma Colab utilizando Python para clasificar y extraer datos útiles para analizar las estadísticas de mercado
 
-├── requirements.txt                          : Tecnologías para correr este modelado de datos
+├── requirements.txt                          : Librerías para correr este modelado de datos con Python
 
 
 🎯Objetivos principales: Hacer el seguimiento a lo largo de los últimos 5 años de los siguientes indicadores
