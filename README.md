@@ -51,7 +51,7 @@ El siguiente gráfico muestra las toneladas por empresa proveedora
 
 Y en el siguiente se aprecia la evolución del mkt share
 
-![]()
+![](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/d067cb408a9180a11a1435acb5cfad9ed6ae1f64/images/Evol%20Mkt%20Share%20a%C3%B1o.png)
 
 
 ### 🔍Resultados  
