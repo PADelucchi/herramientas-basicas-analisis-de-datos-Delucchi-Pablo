@@ -45,6 +45,10 @@ Para ver KPIs
 
  * [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/98037350-6f8a-49dd-a79e-037e0111255c/9684fd06026c94b4c3b1?experience=power-bi)
 
+El siguiente gráfico muestra el mercado discriminado por empresa proveedora
+
+![Mkt Share y volumen]()
+
 
 ### 🔍Resultados  
 
