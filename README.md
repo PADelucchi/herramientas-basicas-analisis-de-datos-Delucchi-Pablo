@@ -56,7 +56,15 @@ Y en el siguiente se aprecia la evolución del mkt share
 
 ### 🔍Resultados  
 
+##Conclusiones del análisis dataset
+
+El mercado argentino de agua oxigenada viene cayendo sin pausa desde 2023, lo que muestra una relación directa con la caída del consumo y la actividad industrial.
+La incidencia de los fletes ha aumentado dado que los precios bajaron mientras nuestros transportes (Solvay Peróxidos) se mantuvieron casi constantes desde 2021 en USD/tn.
+Frente a este contexto se buscará importar producto desde Chile por la menor distancia respecto a Brasil.
+
 Es prioritario renegociar nuestros servicios logísticos, logrando una reducción mínima del 10%, así como también nuestros costos de producción, para ser más competitivos y adaptarnos a la realidad del mercado actual. Con estas medidas, volveremos al nivel mínimo de un Mkt Share del 15%
+
+La tendencia es que se mantendrá un mercado recesivo y sin cambios hasta después de las elecciones del año próximo, en caso que aumente el consumo de la población, y no dependerá tanto de que se restrinjan las importaciones de producto terminado.
 
 
 🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI
