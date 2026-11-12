@@ -45,9 +45,13 @@ Para ver KPIs
 
  * [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/98037350-6f8a-49dd-a79e-037e0111255c/9684fd06026c94b4c3b1?experience=power-bi)
 
-El siguiente gráfico muestra el mercado discriminado por empresa proveedora
+El siguiente gráfico muestra las toneladas por empresa proveedora
 
 ![Mkt Share y volumen](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/ae49daa78437e15001ca436db86dd8befbbdc1df/images/Mkt%20perox%20Ene-Sep%20comparaci%C3%B3n.png)
+
+Y en el siguiente se aprecia la evolución del mkt share
+
+![]()
 
 
 ### 🔍Resultados  
