@@ -11,21 +11,20 @@ Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nu
 
 ### Estructura de datos
 
-├── H2O2 2021-Sep 2026_sucio(1).xlsx          : dataset estructurado obtenido de servicios aduaneros
+              
+              ├── IMAGES                                    : Contiene gráficos varios
+              
+              ├── H2O2 2021-Sep 2026_sucio(1).xlsx          : dataset estructurado obtenido de servicios aduaneros
 
-├── MercadoPeroxlimpio(5).xlsx                : dataset limpio de filas nulas y anómalas luego de tratamiento en Colab con Python
+              ├── MercadoPeroxlimpio(5).xlsx                : dataset limpio de filas nulas y anómalas luego de tratamiento en Colab con Python
 
-├── Mkt perox Ene-Sep comparación.png         : Gráfica con cantidades del mercado con detalle de cada proveedor, para ver evolución y tendencia del mercado
+              ├── README.md                                 : Resumen de los puntos más importantes y acciones para mejorar
 
-├── Mkt share vs competencia directa.png      : Gráfica para ver nuestra posición frente a competidores
+              ├── TP Final Dashboard.pbix                   : Principales KPIs respondiendo a los objetivos 
 
-├── README.md                                 : Resumen de los puntos más importantes y acciones para mejorar
+              ├── TP final.ipynb                            : Notebook en plataforma Colab utilizando Python para clasificar y extraer datos útiles para analizar las estadísticas de mercado
 
-├── TP Final Dashboard.pbix                   : Principales KPIs respondiendo a los objetivos 
-
-├── TP final.ipynb                            : Notebook en plataforma Colab utilizando Python para clasificar y extraer datos útiles para analizar las estadísticas de mercado
-
-├── requirements.txt                          : Librerías para correr este modelado de datos con Python
+              ├── requirements.txt                          : Librerías para correr este modelado de datos con Python
 
 
 🎯Objetivos principales: Hacer el seguimiento a lo largo de los últimos 5 años de los siguientes indicadores
