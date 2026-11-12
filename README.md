@@ -37,7 +37,7 @@ Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nu
 ### Instrucciones de uso
 
 Para ver criterios de clasificación y limpieza del dataset, junto con gráficas correr el siguiente enlace
-* [Analisis Python via Colab]()
+* [Analisis Python via Colab](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/TP%20final%20.ipynb)
 
 Para ver KPIs
 
