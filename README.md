@@ -46,7 +46,8 @@ Para ver KPIs
  * [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/98037350-6f8a-49dd-a79e-037e0111255c/9684fd06026c94b4c3b1?experience=power-bi)
 
 
-### 🔍Resultados:  Es prioritario renegociar nuestros servicios logísticos, logrando una reducción mínima del 10%, así como también nuestros costos de producción, para ser más competitivos y adaptarnos a la realidad del mercado actual. Con estas medidas, volveremos al nivel mínimo de un Mkt Share del 15%
+### 🔍Resultados:  
+                    Es prioritario renegociar nuestros servicios logísticos, logrando una reducción mínima del 10%, así como también nuestros costos de producción, para ser más competitivos y adaptarnos a la realidad del mercado actual. Con estas medidas, volveremos al nivel mínimo de un Mkt Share del 15%
 
 
 🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI
