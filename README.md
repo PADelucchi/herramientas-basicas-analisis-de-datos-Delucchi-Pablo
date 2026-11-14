@@ -1,5 +1,5 @@
                      
-### TP-final-analisis-de-datos 📒
+### TP-Final-analisis-de-datos 📒
 
 Curso: Herramientas básicas para Análisis de Datos - Centro UTN E-Learning
                                        
@@ -27,7 +27,7 @@ Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nu
               ├── requirements.txt                          : Librerías para correr este modelado de datos con Python
 
 
-🎯Objetivos principales: Hacer el seguimiento a lo largo de los últimos 5 años de los siguientes indicadores
+### 🎯Objetivos principales: Hacer el seguimiento a lo largo de los últimos 5 años de los siguientes indicadores
 
 #### 1) Monitorear la evolución del tamaño del mercado en toneladas y participación de cada empresa y conocer en cualquier año si cumplimos con la meta del 15%
 
@@ -46,8 +46,8 @@ Para ver KPIs
 
 El siguiente gráfico muestra las toneladas por empresa proveedora
 
-![Mkt Share y volumen](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/ae49daa78437e15001ca436db86dd8befbbdc1df/images/Mkt%20perox%20Ene-Sep%20comparaci%C3%B3n.png)
-
+![MktShare y volumen](https36db86dd8befbbdc1df/images/Mkt%20perox%20Ene-Sep%20comparaci%C3%B3n.png)
+ 
 Y en el siguiente se aprecia la evolución del mkt share
 
 ![](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/d067cb408a9180a11a1435acb5cfad9ed6ae1f64/images/Evol%20Mkt%20Share%20a%C3%B1o.png)
