@@ -46,7 +46,7 @@ Para ver KPIs
 
 El siguiente gráfico muestra las toneladas por empresa proveedora
 
-![MktShare y volumen](https36db86dd8befbbdc1df/images/Mkt%20perox%20Ene-Sep%20comparaci%C3%B3n.png)
+<img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/images/Mkt%20perox%20Ene-Sep%20comparaci%C3%B3n.png" alt="Descripción del gráfico" width="500">
  
 Y en el siguiente se aprecia la evolución del mkt share
 
