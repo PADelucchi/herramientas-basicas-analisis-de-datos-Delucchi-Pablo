@@ -7,7 +7,9 @@ Curso: Herramientas básicas para Análisis de Datos - Centro UTN E-Learning
 
 Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nuestra posición en el mercado analizando periódicamente las importaciones de la posición arancelaria correspondiente, así como incluir con la mayor precisión posible las cantidades fabricadas en el país.  
 
-📂DATASET: (https://app.penta-transaction.com/login) se requiere contraseña pero ya se descargaron los datos en el archivo H2O2... xlsx presente en este repositorio.
+📂DATASET: (https://app.penta-transaction.com/home/detalle/AR/importDetalladas) se requiere contraseña pero ya se descargaron los datos en el archivo H2O2 2021 Sep 2026_sucio.xlsx presente en este repositorio.
+Se descargan por año las importaciones de la posición arancelaria del peróxido de hidrógeno (código 2847) y se arma el archivo, que unifica todos los despachos de importaciones en el período 2021 - Sep 2026.
+Se compone de casi 6000 filas y 36 columnas. Contiene información sobre toneladas importadas, precios y costos logisticos.
 
 ### Estructura de datos
 
