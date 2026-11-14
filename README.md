@@ -56,9 +56,9 @@ Y en el siguiente se aprecia la evolución del mkt share
 
 git clone https://github.com/usuario/proyecto.git 
 
-#### Instalación de librerias
+#### Instalación librerías
 
-pip install -r requirements.txt 
+pip install -r requirements.txt
 
 ### 🔍Resultados  
 
