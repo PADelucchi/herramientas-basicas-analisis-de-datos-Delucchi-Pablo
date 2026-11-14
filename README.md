@@ -58,7 +58,7 @@ git clone https://github.com/usuario/proyecto.git
 
 #### Instalación librerías
 
-``` bash pip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 ### 🔍Resultados  
 
